@@ -1,7 +1,5 @@
 Repository for E90 Project - Jigsaw Puzzle Solving Robot by Jeffrey Zhang, Swarthmore College Class of 2025
 
-README:
-
 puzzle_1 contains images of scan of front of puzzle piece
 
 puzzle_1_flipped contains images of scan of back puzzle piece, and individual pieces
